@@ -12,7 +12,7 @@ const nextConfig = {
       },
       {
         source: "/deploy",
-        destination: "",
+        destination: "https://vercel.com/andrew-lemas-projects/prince-of-peace",
         permanent: true,
       },
     ];
